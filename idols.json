@@ -1,38 +1,14 @@
 [
-  {
-    "name": "from20",
-    "group": "BIGSTAR",
-    "agency": "기타",
-    "gender": "M",
-    "dob": "1992-02-15",
-    "cat": "K-idol"
-  },
-  {
-    "name": "강유찬",
-    "group": "A.C.E",
-    "agency": "기타",
-    "gender": "M",
-    "dob": "1997-12-31",
-    "cat": "K-idol"
-  },
-  {
-    "name": "임세준",
-    "group": "VICTON",
-    "agency": "기타",
-    "gender": "M",
-    "dob": "1996-05-04",
-    "cat": "K-idol"
-  },
-  {
-    "name": "HELLO GLOOM",
-    "group": "IMFACT",
-    "agency": "기타",
-    "gender": "M",
-    "dob": "1998-05-28",
-    "cat": "K-idol"
-  },
-  { "name": "YYJ", "group": "WAY BETTER", "agency": "기타", "gender": "M", "dob": "2000-03-21", "cat": "K-idol"  },
-  {"name":"에스쿱스","group":"SEVENTEEN","agency":"HYBE","gender":"M","dob":"1995-08-08","cat":"K-idol"},
+{ "name": "from20",    "group": "BIGSTAR",    "agency": "WAYBETTER",    "gender": "M",    "dob": "1992-02-15",    "cat": "K-idol"  },
+{ "name": "강유찬",    "group": "A.C.E",    "agency": "WAYBETTER",    "gender": "M",    "dob": "1997-12-31",    "cat": "K-idol"  },
+{ "name": "임세준",    "group": "VICTON",    "agency": "WAYBETTER",    "gender": "M",    "dob": "1996-05-04",    "cat": "K-idol"  },
+{ "name": "HELLO GLOOM",    "group": "IMFACT",    "agency": "WAYBETTER",    "gender": "M",    "dob": "1998-05-28",    "cat": "K-idol"  },
+{ "name": "YYJ", "group": "WAY BETTER", "agency": "WAYBETTER", "gender": "M", "dob": "2000-03-21", "cat": "K-idol"  },
+{ "name": "이지함",    "group": "A.C.E",    "agency": "기타",    "gender": "M",    "dob": "1993-02-28",    "cat": "K-idol"  },  
+{ "name": "박준희",    "group": "A.C.E",    "agency": "기타",    "gender": "M",    "dob": "1994-06-02",    "cat": "K-idol"  },  
+ { "name": "김병관",    "group": "A.C.E",    "agency": "기타",    "gender": "M",    "dob": "1996-08-13",    "cat": "K-idol"  },   
+  { "name": "와",    "group": "A.C.E",    "agency": "기타",    "gender": "M",    "dob": "1993-05-15",    "cat": "K-idol"  },  
+{"name":"에스쿱스","group":"SEVENTEEN","agency":"HYBE","gender":"M","dob":"1995-08-08","cat":"K-idol"},
 {"name":"정한","group":"SEVENTEEN","agency":"HYBE","gender":"M","dob":"1995-10-04","cat":"K-idol"},
 {"name":"조슈아","group":"SEVENTEEN","agency":"HYBE","gender":"M","dob":"1995-12-30","cat":"K-idol"},
 {"name":"준","group":"SEVENTEEN","agency":"HYBE","gender":"M","dob":"1996-06-10","cat":"K-idol"},
