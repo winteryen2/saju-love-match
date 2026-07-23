@@ -9,9 +9,22 @@
 - 입력한 생년월일과 시각은 외부 서버로 전송되지 않음
 
 > 이 프로젝트는 전통 명리학 요소를 연애·유사연애 콘셉트에 맞게 재구성한 오락용 모델입니다.  
-> 과학적 예측이나 실제 관계의 보증이 아닙니다.
+> 과학적 예측이나 실제 관계의 보증하지 않습니다.
 
 ---
+
+## 🌐 Live Website
+
+**Love Match**
+
+👉 https://winteryen2.github.io/saju-love-match/
+
+---
+
+**GitHub Repository**
+
+👉 https://github.com/winteryen2/saju-love-match
+
 
 ## ✨ 주요 기능
 
@@ -37,7 +50,7 @@
 `YYYYMMDD` 형식의 8자리 숫자를 입력합니다.
 
 ```text
-19961221
+19921014
 ```
 
 입력값을 이용해 다음을 계산합니다.
@@ -57,7 +70,7 @@
 24시간 형식으로 선택 입력합니다.
 
 ```text
-10:21
+12:31
 ```
 
 태어난 시각을 입력하면:
@@ -387,14 +400,7 @@
 ## 데이터 형식
 
 ```json
-{
-  "name": "강유찬",
-  "group": "A.C.E",
-  "agency": "기타",
-  "gender": "M",
-  "dob": "1997-12-31",
-  "cat": "K-idol"
-}
+{"name": "강유찬",  "group": "A.C.E",  "agency": "기타",  "gender": "M",  "dob": "1997-12-31",  "cat": "K-idol"}
 ```
 
 ## 필드 설명
@@ -412,22 +418,8 @@
 
 ```json
 [
-  {
-    "name": "강유찬",
-    "group": "A.C.E",
-    "agency": "기타",
-    "gender": "M",
-    "dob": "1997-12-31",
-    "cat": "K-idol"
-  },
-  {
-    "name": "스즈키 노부유키",
-    "group": "스즈키 노부유키",
-    "agency": "기타",
-    "gender": "M",
-    "dob": "1992-10-14",
-    "cat": "J-idol"
-  }
+  { "name": "강유찬",    "group": "A.C.E",    "agency": "기타",    "gender": "M",    "dob": "1997-12-31",    "cat": "K-idol"  },
+  { "name": "스즈키 노부유키",    "group": "스즈키 노부유키",    "agency": "기타",    "gender": "M",    "dob": "1992-10-14",    "cat": "J-idol"  }
 ]
 ```
 
